@@ -1,5 +1,4 @@
 testString = "PooooooooooooP"
-# GetWellSoonHJ
 
 # for loop with the range() function
 for i in range(0, len(testString), 1):
